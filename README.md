@@ -9,18 +9,15 @@ UI Clone - Twitter Responsive
   <a href="https://github.com/gabrielmuller1/twitter-clone">
     <img src="https://img.shields.io/github/contributors/rocketseat/youtube-clone-twitter?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/github/license/rocketseat/youtube-clone-twitter?color=%236633cc&logo=mit" alt="License">
-  </a>
-</p>
+  </p>
 
 <hr>
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/gabrielmuller1)
+[<img src="https://instagram.ffln3-1.fna.fbcdn.net/v/t51.2885-19/s150x150/270186416_4871793456213874_4070187745667508561_n.jpg?_nc_ht=instagram.ffln3-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=Xhx4UPHiG1kAX8_7Rly&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8NYF7WL_jO9FqgdSlHk57ElWdQM0bBZP3IG6pGJWZNcg&oe=6215930D&_nc_sid=7bff83" width="75px;"/>](https://github.com/gabrielmuller1)
 
-[GGabriel Muller](https://github.com/gabrielmuller1)
+[Gabriel Muller](https://github.com/gabrielmuller1)
 
 ## Techs
 
@@ -43,6 +40,3 @@ UI Clone - Twitter Responsive
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
 
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests.
